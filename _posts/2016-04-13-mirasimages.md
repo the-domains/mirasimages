@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: mirasimages
-datePublished: '2016-04-24T10:35:42.633Z'
-dateModified: '2016-04-24T10:10:42.067Z'
+description: ''
+datePublished: '2016-04-24T10:40:44.018Z'
+dateModified: '2016-04-24T10:40:43.453Z'
 title: ''
-author: []
+author:
+  - name: Mira Zdjelar
+    url: ''
 sourcePath: _posts/2016-04-13-mirasimages.md
 published: true
 authors: []
@@ -24,8 +26,8 @@ _type: Article
 ---
 [][0]
 
-**[mirasimages][1]**
+> irasimages
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a88e0f6c-90f7-4a83-aa96-9e63ff7d3d98.jpg)
 
 [0]: null
-[1]: https://thegrid.ai/abu-dhabi/abu-dhabi/
