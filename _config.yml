@@ -1,0 +1,28 @@
+name: mirasimages
+favicon: null
+layout_spectrum: 0.1587695477064699
+typography_spectrum: 0.5960769278462976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17380901868455112
+  lightness: 0.7348555335775018
+  saturation: 0.357656218810007
+  rhythmicContrast: 0.6453178490046412
+purpose: []
